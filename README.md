@@ -21,7 +21,6 @@
 - 🎮 When I'm not studying, you'll find me mining blocks in **Minecraft** ⛏️
 - 📫 Feel free to reach out — my links are at the bottom of this page
 
-
 ## 🎮 Gaming
 
 <div align="center">
@@ -38,7 +37,7 @@
 
 | Degree | Field | University | Period |
 | :---: | :---: | :---: | :---: |
-| 🎓 Bachelor's Degree | Statistics | `<your university>` | `<start year>` – Present |
+| 🎓 Bachelor's Degree | Statistics | University of Shiraz | 2023 – Present |
 
 <!-- اگر می‌خوای دوره‌های آنلاین یا گواهینامه‌ها رو هم اضافه کنی، اینجا اضافه کن -->
 
@@ -78,9 +77,6 @@
 
 <div align="center">
 
-<a href="mailto:your.email@example.com">
-  <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-</a>
 <a href="https://github.com/msst967">
   <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
 </a>
