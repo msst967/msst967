@@ -37,7 +37,7 @@
 
 | Degree | Field | University | Period |
 | :---: | :---: | :---: | :---: |
-| 🎓 Bachelor's Degree | Statistics | University of Shiraz | 2023 – Present |
+| 🎓 Bachelor's Degree | Statistics | Shiraz University | 2023 – Present |
 
 <!-- اگر می‌خوای دوره‌های آنلاین یا گواهینامه‌ها رو هم اضافه کنی، اینجا اضافه کن -->
 
